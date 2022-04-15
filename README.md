@@ -2,7 +2,7 @@
 
 This is a samll project suitable for startup a .Net 6 base web API application.
 
-To grow more help to code by using below linl:-
+To grow more help to code more by using below donation link :-
 
 
 
